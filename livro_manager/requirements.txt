@@ -1,0 +1,10 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+pandas
+bcrypt
+psycopg2-binary
+twilio
+flask-wtf
+email-validator
+python-dotenv
